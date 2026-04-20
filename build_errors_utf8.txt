@@ -1,0 +1,7 @@
+﻿src/components/layout/TopBar.tsx(21,9): error TS6133: 'avatarUrl' is declared but its value is never read.
+src/context/PlannerContext.tsx(4,17): error TS6133: 'calculateLevel' is declared but its value is never read.
+src/context/PlannerContext.tsx(93,26): error TS6133: 'setWeeklyProgress' is declared but its value is never read.
+src/pages/Analytics.tsx(38,33): error TS6133: 'weeklyProgress' is declared but its value is never read.
+src/pages/Dashboard.tsx(8,71): error TS6133: 'updateTask' is declared but its value is never read.
+src/pages/Dashboard.tsx(19,9): error TS6133: 'weekTasks' is declared but its value is never read.
+src/pages/Timetable.tsx(4,34): error TS6133: 'SettingsIcon' is declared but its value is never read.
